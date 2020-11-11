@@ -1,0 +1,36 @@
+{
+  "description": "bodyparser middleware of bpframework",
+  "dependencies": {
+    "koa-bodyparser": "^4.3.0"
+  },
+  "devDependencies": {},
+  "directories": {},
+  "engines": {
+    "node": ">=10"
+  },
+  "homepage": "https://github.com/bpcloud/middleware-koa-bodyparser#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bpcloud/middleware-koa-bodyparser.git"
+  },
+  "keywords": [
+    "bpframework",
+    "bodyparser"
+  ],
+  "files": [
+    "libs",
+    "types",
+    "index.js"
+  ],
+  "types": "types/index.d.ts",
+  "license": "MIT",
+  "main": "./index.js",
+  "maintainers": [
+    {
+      "name": "brainpoint",
+      "email": "bpoint.lee@gmail.com"
+    }
+  ],
+  "name": "@bpframework/middleware-koa-bodyparser",
+  "version": "0.0.3"
+}
